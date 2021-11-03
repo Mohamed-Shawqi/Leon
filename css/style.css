@@ -471,6 +471,10 @@ z-index: -1;
     color: var(--general-color);
     font-size:35px ;
     font-weight: 800;
+}@media (max-width:764px){
+    .contact-content h3{
+        font-size: 20px;
+    }
 }
 
 .contact-content .contact-info{
